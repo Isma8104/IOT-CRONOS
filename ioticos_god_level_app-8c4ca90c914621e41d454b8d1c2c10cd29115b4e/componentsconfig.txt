@@ -1,0 +1,6 @@
+components: [
+    {
+      path: '~/components',
+      pathPrefix: false,
+      extensions: ['vue','jsx'],
+    }
